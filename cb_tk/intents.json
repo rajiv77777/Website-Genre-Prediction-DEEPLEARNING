@@ -1,0 +1,72 @@
+{
+  "intents": [
+    {
+      "tag": "Entertainment",
+      "patterns": [
+        "youtube genre",
+        "youtube",
+        "YOUTUBE",
+        "utube",
+        "YouTube",
+        "YOUtube","twitter","linkedin","facebook","reddit"
+      ],
+      "responses": [
+        "Entertainment",
+        "have fun its entertaining",
+        "leisure software",
+        "entertainment"
+      ]
+    },
+    {
+      "tag": "Music",
+      "patterns": ["spotify", "youtubemusic", "google music","hear music","free music","fun in music","songs","music","listening songs","listen music"],
+      "responses": [
+        "Songs",
+        "songs - entertainment",
+        "Play and relax - entertainment"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "Movies",
+      "patterns": [
+        "amazonprime ",
+        "netflix ",
+        "hotstar",
+        "zee tv",
+        "watch online movies",
+        "watch movies online",
+        "Free online movies",
+        "movies online",
+        "entertaining movies",
+        "watch tv shows",
+        "live channels",
+        "live tv shows",
+        "video","videos","serials","shows online","serials online"
+      ],
+      "responses": [
+        "Movies Genre - Entertainment",
+        "Movies - Entertainment"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "googlepay",
+        "phonepe",
+        "paypal",
+        "amazon pay",
+        "cashless payment","online payment","easy payment","money","easy cashback","cashbacks","cashless","shop online"
+      ],
+      "responses": [
+        "payments Site",
+        "payments site"
+      ]
+    }
+    
+  ]
+}
