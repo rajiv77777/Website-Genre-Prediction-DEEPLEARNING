@@ -1,4 +1,4 @@
-# website-genre-prediction-DEEPLEARNING
+# Website-Genre-Prediction-DEEPLEARNING
 
 step 1 : Using the google search .py lib scrape the input from the google search engine
 step 2 : Apply Natural Language Processing techniques using NLTK and process it 
